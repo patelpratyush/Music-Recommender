@@ -1,31 +1,3 @@
-"""
-Name: Pratyush Patel 
-Name: Nicholas Russo
-Name: Yanran Jia
-Pledge: I pledge my honor that I have abided by the Stevens Honor System.
-Group Name: NPJ Python Pros
-"""
-'''
-Get Recommendation to made with the extra credit
-'''
-#Overview
-'''
-Pratyush's functions:
-Putting it all together and testing the functionality
-The user should be prompted for their name
-The menu and input taken from the user
-
-Julie's functions
-e - Enter preferences
-r - Get recommendations
-p - Show most popular artists
-
-Nicholas' functions
-h - How popular is the most popular [artist]
-m - Which user has the most likes
-q - Save and quit
-'''
-
 #Defines file to use
 prefName = "musicrecplus.txt" 
 
